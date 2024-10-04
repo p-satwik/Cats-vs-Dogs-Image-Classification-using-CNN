@@ -53,18 +53,6 @@ During training, the model achieved:
 - **Training Loss**: 0.0947
 - **Validation Loss**: 0.4596
 
-## 📊 Visualizations
-
-### Accuracy Plot
-A plot showing the accuracy of the model for both training and validation sets over 10 epochs.
-
-![Accuracy Plot](accuracy_plot.png)
-
-### Loss Plot
-A plot showing the loss of the model for both training and validation sets over 10 epochs.
-
-![Loss Plot](loss_plot.png)
-
 ## 🖼️ Testing the Model
 
 The model was tested on random images of dogs and cats, and successfully predicted the correct class.
